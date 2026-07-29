@@ -1,0 +1,12 @@
+! def2-TZVP D4 tightscf KDIIS def2/J NoAutoStart
+
+%method
+ method dft
+ exchange hyb_mgga_x_bmk
+ correlation gga_c_bmk
+end
+
+%PAL NPROCS 24 END
+
+
+* xyzfile 0 1 ch4.xyz *

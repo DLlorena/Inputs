@@ -1,0 +1,6 @@
+LANG is C.UTF-8
+LC_ALL is C
+SLURM_NODELIST is compute-2
+rm: cannot remove '*tmp': No such file or directory
+rm: cannot remove '*tmp*': No such file or directory
+rm: cannot remove '*bas*': No such file or directory

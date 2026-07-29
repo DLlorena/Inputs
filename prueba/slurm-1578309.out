@@ -1,0 +1,5 @@
+LANG is C.UTF-8
+LC_ALL is C
+SLURM_NODELIST is compute-1
+[file orca_tools/Tool-Misc/qcdftvdw.cpp, line 2375]: ERROR in DFT dispersion correction!
+
