@@ -1,5 +1,0 @@
-! cam-b3lyp D4 def2-TZVP tightscf KDIIS def2/J NoAutoStart
-
-%PAL NPROCS 24 END
-
-* xyzfile 0 1 ch4.xyz *
