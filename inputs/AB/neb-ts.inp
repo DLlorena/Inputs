@@ -1,0 +1,12 @@
+!UKS CAM-B3LYP aug-cc-pVDZ D4 NEB-TS verytightscf NoAutoStart
+
+%PAL NPROCS 64 END
+%maxcore 3700
+
+%NEB 
+neb_end_xyzfile "optt.xyz"
+Nimages 16
+END
+
+* xyzfile 0 1 optc.xyz 
+
