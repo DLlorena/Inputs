@@ -1,6 +1,6 @@
 # Inputs
 
-This repository will be a backup folder for different inputs used during my PhD.
+This repository will be a backup folder for different inputs used during my PhD. All the inputs are based on open-source programmes such as ORCA, ASE or GPAW.
 
 ## AB project
 
