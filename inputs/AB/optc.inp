@@ -1,0 +1,10 @@
+! UKS CAM-B3LYP D4 aug-cc-pVDZ tightopt tightscf freq NoAutoStart
+ 
+%Maxcore 3900
+
+%pal
+ nprocs 64
+end
+
+* xyzfile 0 1 abc.xyz *
+

@@ -1,0 +1,18 @@
+! UKS CAM-B3LYP RIJCOSX aug-cc-pVDZ D4 def2/J KDIIS NoAutoStart
+! tightopt tightscf
+
+%pal
+ nprocs 64
+end
+
+%scf
+maxiter 1000
+BrokenSym 1,1
+end
+
+%geom 
+scan D 13 0 1 2 = 180, 10, 18
+end 
+end
+
+* xyzfile 0 1 abt.xyz *

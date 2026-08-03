@@ -1,0 +1,13 @@
+!UKS CAM-B3LYP D4 aug-cc-pVDZ verytightscf NoAutoStart
+
+%PAL NPROCS 64 END
+%maxcore 3900
+
+%scf
+ guess MORead
+ MaxIter 1000
+end
+
+%moinp "neb-ci7_im6.gbw"
+
+* xyzfile 0 1 neb-ci7_NEB-CI_converged.xyz *
