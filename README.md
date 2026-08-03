@@ -1,8 +1,12 @@
-# Scripts
-## test
+# Inputs
 
 This repository will be a backup folder for different inputs used during my PhD.
 
-Most of the inputs are based on ORCA 6.1 at the moment, however there are some python scripts that use ASE and GPAW software.
+## AB project
 
-At some point in the future, jupyter notebooks about LiDi project will be uploaded.
+Most of the inputs for azobenzene (AB) project are made to use them on ORCA 6.1, however there are some python scripts that use ASE and GPAW software.
+This project is mainly based on nudged elastic band (NEB) method, which only requires two ending points, in this case cis and trans structures of AB. So geometry optimization inputs, NEB-TS and NEB-CI inputs can be found on inputs/AB/ . Moreover, some tests of NEB-CI on ASE have been done. Also GPAW software has been tested because of the inclusion on it of the PBE-SIC density functional.
+
+## LiDi project
+
+At some point in the future, some jupyter notebooks about LiDi project will be uploaded.
