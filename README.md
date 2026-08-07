@@ -9,4 +9,4 @@ This project is mainly based on nudged elastic band (NEB) method, which only req
 
 ## LiDi project
 
-At some point in the future, some jupyter notebooks about LiDi project will be uploaded.
+All the workflow and inputs are available in inputs/LiDi
